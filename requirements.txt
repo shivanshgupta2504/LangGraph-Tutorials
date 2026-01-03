@@ -3,6 +3,3 @@ langchain
 langchain_openai
 dotenv
 jupyter
-IPython
-pydantic
-langchain_core
